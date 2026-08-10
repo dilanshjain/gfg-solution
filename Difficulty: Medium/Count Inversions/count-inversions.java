@@ -1,0 +1,62 @@
+class Solution {
+
+    static int count;
+
+    static int inversionCount(int arr[]) {
+        count = 0;
+        mergeSort(arr);
+        return count;
+    }
+
+    private static void mergeSort(int[] arr) {
+
+        int n = arr.length;
+
+        if (n <= 1)
+            return;
+
+        int[] left = new int[n / 2];
+        int[] right = new int[n - n / 2];
+
+        int idx = 0;
+
+        for (int i = 0; i < left.length; i++) {
+            left[i] = arr[idx++];
+        }
+
+        for (int i = 0; i < right.length; i++) {
+            right[i] = arr[idx++];
+        }
+
+        mergeSort(left);
+        mergeSort(right);
+
+        merge(left, right, arr);
+    }
+
+    public static void merge(int[] left, int[] right, int[] arr) {
+
+        int i = 0;
+        int j = 0;
+        int k = 0;
+
+        while (i < left.length && j < right.length) {
+
+            if (left[i] <= right[j]) {
+                arr[k++] = left[i++];
+            } else {
+                // Count inversions
+                count += (left.length - i);
+                arr[k++] = right[j++];
+            }
+        }
+
+        while (i < left.length) {
+            arr[k++] = left[i++];
+        }
+
+        while (j < right.length) {
+            arr[k++] = right[j++];
+        }
+    }
+}
