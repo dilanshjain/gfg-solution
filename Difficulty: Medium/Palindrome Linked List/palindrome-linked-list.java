@@ -2,7 +2,7 @@
 
 class Solution {
     public boolean isPalindrome(Node head) {
-        // code here
+        
         Node temp = head;
         ArrayList<Integer> arr = new ArrayList<>();
         while(temp != null){
