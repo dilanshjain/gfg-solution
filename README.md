@@ -7,6 +7,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -62,7 +63,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -93,6 +96,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
