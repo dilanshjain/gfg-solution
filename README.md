@@ -91,6 +91,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -99,6 +100,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
+| [interleave-the-first-half-of-the-queue-with-second-half](https://github.com/dilanshjain/gfg-solution/tree/main/interleave-the-first-half-of-the-queue-with-second-half/) | Medium |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
 
@@ -120,6 +122,7 @@ Contains topicwise list of solved problems.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [interleave-the-first-half-of-the-queue-with-second-half](https://github.com/dilanshjain/gfg-solution/tree/main/interleave-the-first-half-of-the-queue-with-second-half/) | Medium |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
 
@@ -133,7 +136,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
 
+## implementation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [interleave-the-first-half-of-the-queue-with-second-half](https://github.com/dilanshjain/gfg-solution/tree/main/interleave-the-first-half-of-the-queue-with-second-half/) | Medium |
+
+## Interleave First Half Queue Second Half
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [interleave-the-first-half-of-the-queue-with-second-half](https://github.com/dilanshjain/gfg-solution/tree/main/interleave-the-first-half-of-the-queue-with-second-half/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
