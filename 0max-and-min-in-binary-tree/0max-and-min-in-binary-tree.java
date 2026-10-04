@@ -11,7 +11,7 @@ class Node {
 
 class Solution {
     public static int findMax(Node root) {
-        // code here
+        
         if(root == null) return Integer.MIN_VALUE;
         
         int leftMax = findMax(root.left);
