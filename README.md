@@ -107,6 +107,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -177,7 +178,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
 
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
