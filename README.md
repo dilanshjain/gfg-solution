@@ -127,6 +127,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -200,6 +201,7 @@ Contains topicwise list of solved problems.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
 | [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
 
@@ -208,7 +210,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
 
+## Find Maximum Or Minimum In Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
