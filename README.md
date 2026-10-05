@@ -23,6 +23,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -31,6 +32,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
+| [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 
 ## Google
 | Problem Name | Difficulty |
@@ -47,12 +49,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
+| [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
+| [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
 
@@ -95,8 +99,10 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+| [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
@@ -153,6 +159,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -162,6 +169,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 | [interleave-the-first-half-of-the-queue-with-second-half](https://github.com/dilanshjain/gfg-solution/tree/main/interleave-the-first-half-of-the-queue-with-second-half/) | Medium |
+| [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
 
@@ -229,6 +237,7 @@ Contains topicwise list of solved problems.
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+| [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
 
 ## Sum Nodes Binary Tree
@@ -251,7 +260,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 
+## Morris Traversal For Preorder
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
+
+## Preorder Traversal Of Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
