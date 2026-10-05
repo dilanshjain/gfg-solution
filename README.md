@@ -25,6 +25,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -57,6 +58,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
+| [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
@@ -94,6 +96,7 @@ Contains topicwise list of solved problems.
 ## Snapdeal
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 
 ## Walmart
@@ -101,6 +104,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
+
+## Adobe
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 
 <!---GeeksForGeeks Companies End-->
 
@@ -125,7 +133,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -239,6 +249,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
+| [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
@@ -273,7 +284,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 
+## Inorder Traversal Of Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
