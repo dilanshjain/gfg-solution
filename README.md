@@ -21,6 +21,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -79,6 +80,21 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
 
+## Morgan Stanley
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+
+## Snapdeal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+
+## Walmart
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -98,7 +114,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -207,6 +225,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
+| [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 | [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
 
 ## Sum Nodes Binary Tree
@@ -219,7 +238,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 
+## Morris Traversal For Postorder
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+
+## Postorder Traversal Of Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
