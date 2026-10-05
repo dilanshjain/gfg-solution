@@ -27,6 +27,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -34,6 +35,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 
@@ -41,6 +43,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 
 ## NPCI
@@ -58,6 +61,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
@@ -68,6 +72,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 
 ## MakeMyTrip
 | Problem Name | Difficulty |
@@ -92,24 +97,78 @@ Contains topicwise list of solved problems.
 ## Morgan Stanley
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 
 ## Snapdeal
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 
 ## Walmart
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 
 ## Adobe
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
+
+## Paytm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## VMWare
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## Accolite
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## Ola Cabs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## Goldman Sachs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## SAP Labs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## Myntra
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## Belzabar
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## eBay
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+
+## PropTiger
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 
 <!---GeeksForGeeks Companies End-->
 
@@ -136,7 +195,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -252,6 +313,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
+| [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
@@ -293,6 +355,7 @@ Contains topicwise list of solved problems.
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
