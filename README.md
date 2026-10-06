@@ -33,6 +33,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -44,6 +45,7 @@ Contains topicwise list of solved problems.
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
+| [symmetric-tree](https://github.com/dilanshjain/gfg-solution/tree/main/symmetric-tree/) | Easy |
 
 ## Google
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ Contains topicwise list of solved problems.
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
+| [symmetric-tree](https://github.com/dilanshjain/gfg-solution/tree/main/symmetric-tree/) | Easy |
 
 ## Samsung
 | Problem Name | Difficulty |
@@ -209,7 +212,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -337,6 +342,7 @@ Contains topicwise list of solved problems.
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
+| [symmetric-tree](https://github.com/dilanshjain/gfg-solution/tree/main/symmetric-tree/) | Easy |
 
 ## Sum Nodes Binary Tree
 | Problem Name | Difficulty |
@@ -374,6 +380,7 @@ Contains topicwise list of solved problems.
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
