@@ -35,6 +35,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -78,6 +79,7 @@ Contains topicwise list of solved problems.
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
+| [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 | [symmetric-tree](https://github.com/dilanshjain/gfg-solution/tree/main/symmetric-tree/) | Easy |
 
 ## Samsung
@@ -136,6 +138,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+| [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 
 ## VMWare
 | Problem Name | Difficulty |
@@ -215,7 +218,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -333,6 +338,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
+| [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 
 ## Tree
 | Problem Name | Difficulty |
@@ -344,6 +350,7 @@ Contains topicwise list of solved problems.
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
+| [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 | [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
 | [symmetric-tree](https://github.com/dilanshjain/gfg-solution/tree/main/symmetric-tree/) | Easy |
 
@@ -382,7 +389,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
+
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
