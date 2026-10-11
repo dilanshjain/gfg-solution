@@ -39,6 +39,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -47,6 +48,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+| [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
@@ -62,6 +64,7 @@ Contains topicwise list of solved problems.
 ## NPCI
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 
 ## Flipkart
@@ -76,6 +79,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+| [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
@@ -188,6 +192,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 
+## OYO Rooms
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -225,7 +234,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -355,6 +366,7 @@ Contains topicwise list of solved problems.
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+| [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
@@ -408,7 +420,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 
+## Diameter Of A Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
