@@ -46,12 +46,14 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
@@ -63,6 +65,7 @@ Contains topicwise list of solved problems.
 ## Google
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
@@ -70,6 +73,7 @@ Contains topicwise list of solved problems.
 ## NPCI
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
@@ -77,6 +81,7 @@ Contains topicwise list of solved problems.
 ## Flipkart
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
@@ -85,6 +90,7 @@ Contains topicwise list of solved problems.
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
@@ -108,6 +114,7 @@ Contains topicwise list of solved problems.
 ## MakeMyTrip
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
@@ -135,6 +142,7 @@ Contains topicwise list of solved problems.
 ## Snapdeal
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
@@ -169,6 +177,7 @@ Contains topicwise list of solved problems.
 ## Accolite
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
@@ -211,6 +220,7 @@ Contains topicwise list of solved problems.
 ## OYO Rooms
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
@@ -222,6 +232,7 @@ Contains topicwise list of solved problems.
 ## Twitter
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
 ## Knowlarity
@@ -233,6 +244,36 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
+
+## Payu
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+
+## Times Internet
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+
+## Cisco
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+
+## PayPal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+
+## Expedia
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+
+## American Express
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
 
@@ -278,7 +319,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -412,6 +455,7 @@ Contains topicwise list of solved problems.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
@@ -491,6 +535,7 @@ Contains topicwise list of solved problems.
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
