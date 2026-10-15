@@ -49,6 +49,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -59,6 +60,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
+| [flatten-binary-tree-to-linked-list](https://github.com/dilanshjain/gfg-solution/tree/main/flatten-binary-tree-to-linked-list/) | Medium |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
@@ -334,7 +336,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -477,6 +481,7 @@ Contains topicwise list of solved problems.
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
+| [flatten-binary-tree-to-linked-list](https://github.com/dilanshjain/gfg-solution/tree/main/flatten-binary-tree-to-linked-list/) | Medium |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
@@ -551,7 +556,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [flatten-binary-tree-to-linked-list](https://github.com/dilanshjain/gfg-solution/tree/main/flatten-binary-tree-to-linked-list/) | Medium |
+
+## Flatten A Binary Tree Into Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [flatten-binary-tree-to-linked-list](https://github.com/dilanshjain/gfg-solution/tree/main/flatten-binary-tree-to-linked-list/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
