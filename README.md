@@ -54,6 +54,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -70,6 +71,7 @@ Contains topicwise list of solved problems.
 | [paths-from-root-with-sum](https://github.com/dilanshjain/gfg-solution/tree/main/paths-from-root-with-sum/) | Medium |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [symmetric-tree](https://github.com/dilanshjain/gfg-solution/tree/main/symmetric-tree/) | Easy |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Google
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ Contains topicwise list of solved problems.
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Amazon
 | Problem Name | Difficulty |
@@ -113,6 +116,7 @@ Contains topicwise list of solved problems.
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
 | [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 | [symmetric-tree](https://github.com/dilanshjain/gfg-solution/tree/main/symmetric-tree/) | Easy |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Samsung
 | Problem Name | Difficulty |
@@ -121,6 +125,7 @@ Contains topicwise list of solved problems.
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## MakeMyTrip
 | Problem Name | Difficulty |
@@ -144,12 +149,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Morgan Stanley
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Snapdeal
 | Problem Name | Difficulty |
@@ -159,6 +166,7 @@ Contains topicwise list of solved problems.
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Walmart
 | Problem Name | Difficulty |
@@ -192,6 +200,7 @@ Contains topicwise list of solved problems.
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Ola Cabs
 | Problem Name | Difficulty |
@@ -236,6 +245,7 @@ Contains topicwise list of solved problems.
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Qualcomm
 | Problem Name | Difficulty |
@@ -263,6 +273,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Times Internet
 | Problem Name | Difficulty |
@@ -293,6 +304,16 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+
+## Hike
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
+
+## Kritikal Solutions
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
 
@@ -346,7 +367,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -504,6 +527,7 @@ Contains topicwise list of solved problems.
 | [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 | [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
 | [symmetric-tree](https://github.com/dilanshjain/gfg-solution/tree/main/symmetric-tree/) | Easy |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Sum Nodes Binary Tree
 | Problem Name | Difficulty |
@@ -580,7 +604,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [flatten-binary-tree-to-linked-list](https://github.com/dilanshjain/gfg-solution/tree/main/flatten-binary-tree-to-linked-list/) | Medium |
 
+## Boundary Traversal Of Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
