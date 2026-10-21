@@ -9,19 +9,18 @@ class Solution {
 
     Node build(int[] pre, int low, int high) {
         if (idx >= pre.length) return null;
-
+        
         int val = pre[idx];
-
+        
         if (val <= low || val >= high) {
             return null;
         }
-
+        
         Node root = new Node(val);
         idx++;
-
         root.left = build(pre, low, val);
         root.right = build(pre, val, high);
-
+        
         return root;
     }
 }
