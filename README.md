@@ -59,6 +59,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -101,6 +102,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
+| [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
@@ -117,6 +119,7 @@ Contains topicwise list of solved problems.
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
+| [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
@@ -311,6 +314,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+| [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 
 ## Hike
 | Problem Name | Difficulty |
@@ -323,6 +327,7 @@ Contains topicwise list of solved problems.
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
@@ -451,6 +456,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -460,6 +466,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 | [interleave-the-first-half-of-the-queue-with-second-half](https://github.com/dilanshjain/gfg-solution/tree/main/interleave-the-first-half-of-the-queue-with-second-half/) | Medium |
+| [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [queue-reversal](https://github.com/dilanshjain/gfg-solution/tree/main/queue-reversal/) | Easy |
 | [reverse-first-k-of-a-queue](https://github.com/dilanshjain/gfg-solution/tree/main/reverse-first-k-of-a-queue/) | Easy |
@@ -539,6 +546,7 @@ Contains topicwise list of solved problems.
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 | [paths-from-root-with-sum](https://github.com/dilanshjain/gfg-solution/tree/main/paths-from-root-with-sum/) | Medium |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+| [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 | [size-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/size-of-binary-tree/) | Basic |
@@ -625,7 +633,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
