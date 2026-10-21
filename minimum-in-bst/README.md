@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1">Minimum in BST</a></h2><h3>Easy</h3><hr><p><span style="font-size: 14pt;">Given a Binary Search Tree, find the minimum<strong> </strong>in the given BST. </span></p><p><span style="font-size: 14pt;"><strong>Examples</strong></span></p><pre><span style="font-size: 14pt;"><strong>Input:</strong> root = [5, 4, 6, 3, N, N, 7, 1]
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240924170437/ex-1.webp" alt="ex-1" width="302" height="268">
+<strong>Output: </strong>1<br></span><span style="font-size: 14pt;"><strong>Explanation: </strong>The minimum element in the given BST is 1.</span></pre><pre><span style="font-size: 14pt;"><strong>Input: </strong>root =<strong> </strong>[10, 5, 20, 2]
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240924170436/ex-2.webp" alt="ex-2" width="300" height="266">
+<strong>Output: </strong>2<br></span><span style="font-size: 14pt;"><strong>Explanation: </strong>The minimum element in the given BST is 2.</span></pre><pre><span style="font-size: 14pt;"><strong>Input: </strong>root =<strong> </strong>[]
+<strong>Output: </strong>-1<br></span><span style="font-size: 14pt;"><strong>Explanation: </strong>The root of the BST is NULL.</span></pre>
