@@ -66,6 +66,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -323,6 +324,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
+| [search-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/search-in-bst/) | Easy |
 
 ## Hike
 | Problem Name | Difficulty |
@@ -398,7 +400,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -659,8 +663,10 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [minimum-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/minimum-in-bst/) | Easy |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
+| [search-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/search-in-bst/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
