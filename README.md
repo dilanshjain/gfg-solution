@@ -68,6 +68,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -94,6 +95,7 @@ Contains topicwise list of solved problems.
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+| [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 
 ## NPCI
@@ -337,6 +339,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
+## D-E-Shaw
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -403,7 +410,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -568,6 +577,7 @@ Contains topicwise list of solved problems.
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
+| [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [flatten-binary-tree-to-linked-list](https://github.com/dilanshjain/gfg-solution/tree/main/flatten-binary-tree-to-linked-list/) | Medium |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
@@ -667,11 +677,13 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0sum-of-nodes-in-bst-range](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-nodes-in-bst-range/) | Medium |
+| [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
 | [minimum-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/minimum-in-bst/) | Easy |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [search-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/search-in-bst/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
