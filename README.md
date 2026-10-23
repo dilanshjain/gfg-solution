@@ -71,12 +71,14 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
@@ -123,6 +125,7 @@ Contains topicwise list of solved problems.
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
@@ -144,6 +147,7 @@ Contains topicwise list of solved problems.
 ## Samsung
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
@@ -208,6 +212,7 @@ Contains topicwise list of solved problems.
 ## Paytm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 | [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
@@ -220,6 +225,7 @@ Contains topicwise list of solved problems.
 ## Accolite
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
@@ -415,7 +421,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -682,13 +690,25 @@ Contains topicwise list of solved problems.
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0sum-of-nodes-in-bst-range](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-nodes-in-bst-range/) | Medium |
 | [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
 | [minimum-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/minimum-in-bst/) | Easy |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [search-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/search-in-bst/) | Easy |
 
+## Design-Pattern
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
+
+## Insertion In Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
