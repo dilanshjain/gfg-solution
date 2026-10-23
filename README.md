@@ -73,6 +73,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -97,6 +98,7 @@ Contains topicwise list of solved problems.
 ## Google
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
@@ -126,6 +128,7 @@ Contains topicwise list of solved problems.
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
@@ -226,6 +229,7 @@ Contains topicwise list of solved problems.
 ## Accolite
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
@@ -424,7 +428,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -693,6 +699,7 @@ Contains topicwise list of solved problems.
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0sum-of-nodes-in-bst-range](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-nodes-in-bst-range/) | Medium |
 | [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
@@ -711,6 +718,7 @@ Contains topicwise list of solved problems.
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
