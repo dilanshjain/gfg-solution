@@ -75,6 +75,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -84,6 +85,7 @@ Contains topicwise list of solved problems.
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
@@ -110,6 +112,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
@@ -120,6 +123,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [identical-trees](https://github.com/dilanshjain/gfg-solution/tree/main/identical-trees/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
@@ -134,6 +138,7 @@ Contains topicwise list of solved problems.
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
@@ -155,6 +160,7 @@ Contains topicwise list of solved problems.
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
@@ -165,6 +171,7 @@ Contains topicwise list of solved problems.
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
 ## Directi
@@ -181,6 +188,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Morgan Stanley
@@ -194,6 +202,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
@@ -203,6 +212,7 @@ Contains topicwise list of solved problems.
 ## Walmart
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
@@ -210,6 +220,7 @@ Contains topicwise list of solved problems.
 ## Adobe
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [inorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/inorder-traversal/) | Basic |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
@@ -225,6 +236,7 @@ Contains topicwise list of solved problems.
 ## VMWare
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 
 ## Accolite
@@ -233,6 +245,7 @@ Contains topicwise list of solved problems.
 | [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
@@ -242,12 +255,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
 ## Goldman Sachs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 
 ## SAP Labs
@@ -279,6 +294,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [diameter-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/diameter-of-binary-tree/) | Medium |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
@@ -287,6 +303,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 
 ## Twitter
@@ -340,12 +357,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [search-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/search-in-bst/) | Easy |
 
 ## Hike
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
 
 ## Kritikal Solutions
@@ -357,6 +376,26 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
+
+## MAQ Software
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
+
+## Boomerang Commerce
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
+
+## GreyOrange
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
+
+## Wooker
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
 
@@ -431,7 +470,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -601,6 +642,7 @@ Contains topicwise list of solved problems.
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
 | [0sum-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-binary-tree/) | Basic |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
@@ -705,6 +747,7 @@ Contains topicwise list of solved problems.
 | [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0sum-of-nodes-in-bst-range](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-nodes-in-bst-range/) | Medium |
+| [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
 | [minimum-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/minimum-in-bst/) | Easy |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
@@ -721,6 +764,7 @@ Contains topicwise list of solved problems.
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
