@@ -81,6 +81,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -88,6 +89,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
+| [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
@@ -143,6 +145,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
+| [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
@@ -493,7 +496,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -665,6 +670,7 @@ Contains topicwise list of solved problems.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
@@ -774,6 +780,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
+| [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
 | [0sum-of-nodes-in-bst-range](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-nodes-in-bst-range/) | Medium |
 | [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
@@ -792,7 +799,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 
+## Amazon Interview Experience For Sde 3
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
+
+## Transform Bst Sum Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
