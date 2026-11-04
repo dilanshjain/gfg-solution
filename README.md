@@ -89,6 +89,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -134,6 +135,7 @@ Contains topicwise list of solved problems.
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
 | [lowest-common-ancestor-in-a-bst](https://github.com/dilanshjain/gfg-solution/tree/main/lowest-common-ancestor-in-a-bst/) | Medium |
 | [minimum-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/minimum-in-bst/) | Easy |
+| [predecessor-and-successor-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/predecessor-and-successor-in-bst/) | Medium |
 
 ## Flipkart
 | Problem Name | Difficulty |
@@ -285,6 +287,7 @@ Contains topicwise list of solved problems.
 | [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [left-view-of-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/left-view-of-binary-tree/) | Easy |
+| [predecessor-and-successor-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/predecessor-and-successor-in-bst/) | Medium |
 
 ## Goldman Sachs
 | Problem Name | Difficulty |
@@ -519,7 +522,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -719,6 +724,7 @@ Contains topicwise list of solved problems.
 | [minimum-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/minimum-in-bst/) | Easy |
 | [paths-from-root-with-sum](https://github.com/dilanshjain/gfg-solution/tree/main/paths-from-root-with-sum/) | Medium |
 | [postorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/postorder-traversal/) | Basic |
+| [predecessor-and-successor-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/predecessor-and-successor-in-bst/) | Medium |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [preorder-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-traversal/) | Basic |
 | [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
@@ -819,6 +825,7 @@ Contains topicwise list of solved problems.
 | [largest-bst-subtree](https://github.com/dilanshjain/gfg-solution/tree/main/largest-bst-subtree/) | Hard |
 | [lowest-common-ancestor-in-a-bst](https://github.com/dilanshjain/gfg-solution/tree/main/lowest-common-ancestor-in-a-bst/) | Medium |
 | [minimum-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/minimum-in-bst/) | Easy |
+| [predecessor-and-successor-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/predecessor-and-successor-in-bst/) | Medium |
 | [preorder-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/preorder-to-bst/) | Medium |
 | [search-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/search-in-bst/) | Easy |
 
@@ -863,6 +870,7 @@ Contains topicwise list of solved problems.
 | [largest-bst-subtree](https://github.com/dilanshjain/gfg-solution/tree/main/largest-bst-subtree/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
