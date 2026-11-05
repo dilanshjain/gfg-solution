@@ -1,26 +1,35 @@
-/* Structure of Binary Tree Node
-class Node {
-    int data;
-    Node left, right;
-    Node(int item){
-        data = item;
-        left = right = null;
-    }
-}*/
-
 class Solution {
     public ArrayList<Integer> inOrder(Node root) {
-        // code here
         ArrayList<Integer> ans = new ArrayList<>();
+        Node curr = root;
 
-        inOrder(root , ans);
+        while (curr != null) {
+
+            if (curr.left == null) {
+                ans.add(curr.data);
+                curr = curr.right;
+            }
+
+            else {
+                Node pred = curr.left;
+
+                while (pred.right != null && pred.right != curr) {
+                    pred = pred.right;
+                }
+
+                if (pred.right == null) {
+                    pred.right = curr;
+                    curr = curr.left;
+                }
+
+                else {
+                    pred.right = null;
+                    ans.add(curr.data);
+                    curr = curr.right;
+                }
+            }
+        }
+
         return ans;
-    }
-    
-    public void inOrder(Node root , List<Integer> ans){
-      if(root == null) return;
-      inOrder(root.left , ans);
-      ans.add(root.data);
-      inOrder(root.right , ans);
     }
 }
