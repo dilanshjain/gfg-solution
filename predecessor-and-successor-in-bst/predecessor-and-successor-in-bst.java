@@ -1,13 +1,3 @@
-/* Structure of a Binary Search Tree node
-class Node {
-    int data;
-    Node left, right;
-    Node(int x) {
-        data = x;
-        left = right = null;
-    }
-} */
-
 class Solution {
     public ArrayList<Node> findPreSuc(Node root, int key) {
         ArrayList<Node> ans = new ArrayList<>();
