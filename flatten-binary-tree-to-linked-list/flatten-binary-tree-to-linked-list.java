@@ -1,25 +1,30 @@
-
-class Solution {
-    public void flatten(Node root) {
-        if(root == null) return;
-        ArrayList<Node> arr = new ArrayList<>();
-        dfs(root , arr);
-        for(int i = 0 ; i<arr.size()-1 ; i++){
-            Node a = arr.get(i);
-            Node b = arr.get(i+1);
-            a.right = b;
-            a.left = null;
-        }
-
-        Node last = arr.get(arr.size()-1);
-        last.left = null;
-        last.right = null;
+/* Binary Tree Node Structure
+class Node{
+    int data;
+    Node left;
+    Node right;
+    Node(int data){
+        this.data = data;
+        left = null;
+        right = null;
     }
-
-    private static void dfs(Node root , ArrayList<Node> arr){
-        if(root == null) return;
-        arr.add(root);
-        dfs(root.left , arr);
-        dfs(root.right , arr);
+}
+*/
+class Solution {
+    public static void flatten(Node root) {
+        Node curr = root;
+        while(curr != null){
+            if(curr.left != null){
+                Node pred = curr.left;
+                while(pred.right != null) pred = pred.right;
+                
+                pred.right = curr.right;
+                curr.right = curr.left;
+                curr.left = null;
+                curr = curr.right;
+            }
+            
+           else curr = curr.right;
+        }
     }
 }
