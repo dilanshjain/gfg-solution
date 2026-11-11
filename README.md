@@ -674,6 +674,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -943,7 +944,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 
+## Heap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-largest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-largest/) | Medium |
+
+## STL
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-largest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-largest/) | Medium |
+
+## Kth Largest Element In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-largest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-largest/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
