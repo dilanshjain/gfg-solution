@@ -99,6 +99,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -135,6 +136,7 @@ Contains topicwise list of solved problems.
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
 | [count-bst-nodes-in-range](https://github.com/dilanshjain/gfg-solution/tree/main/count-bst-nodes-in-range/) | Medium |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
+| [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
 
 ## NPCI
 | Problem Name | Difficulty |
@@ -560,7 +562,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -749,6 +753,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
+| [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
 | [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
 
 ## Tree
@@ -910,6 +915,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 | [largest-bst-subtree](https://github.com/dilanshjain/gfg-solution/tree/main/largest-bst-subtree/) | Hard |
+| [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
 
 ## Flipkart Interview For Sde Ii
 | Problem Name | Difficulty |
@@ -961,7 +967,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-largest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-largest/) | Medium |
 
+## Priority Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
+
+## Nearly Sorted Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
