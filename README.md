@@ -103,6 +103,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -132,6 +133,7 @@ Contains topicwise list of solved problems.
 ## Google
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
@@ -170,6 +172,7 @@ Contains topicwise list of solved problems.
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
@@ -569,7 +572,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -707,6 +712,7 @@ Contains topicwise list of solved problems.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [histogram-max-rectangular-area](https://github.com/dilanshjain/gfg-solution/tree/main/histogram-max-rectangular-area/) | Hard |
 
 ## Dynamic Programming
@@ -760,6 +766,7 @@ Contains topicwise list of solved problems.
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
 | [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
@@ -922,6 +929,7 @@ Contains topicwise list of solved problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 | [largest-bst-subtree](https://github.com/dilanshjain/gfg-solution/tree/main/largest-bst-subtree/) | Hard |
 | [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
@@ -964,6 +972,7 @@ Contains topicwise list of solved problems.
 ## Heap
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [0kth-largest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-largest/) | Medium |
 
 ## STL
@@ -979,6 +988,7 @@ Contains topicwise list of solved problems.
 ## Priority Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
 
 ## Nearly Sorted Algorithm
@@ -986,7 +996,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
 
+## Mathematics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
+
+## Geometric
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
+
+## Find K Closest Points To The Origin
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
