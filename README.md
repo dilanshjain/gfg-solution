@@ -106,6 +106,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -117,6 +118,7 @@ Contains topicwise list of solved problems.
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
+| [0top-k-frequent-in-array](https://github.com/dilanshjain/gfg-solution/tree/main/0top-k-frequent-in-array/) | Medium |
 | [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
@@ -182,6 +184,7 @@ Contains topicwise list of solved problems.
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-rectangle](https://github.com/dilanshjain/gfg-solution/tree/main/0max-rectangle/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0min-distance-between-two-in-binary-tree/) | Hard |
+| [0top-k-frequent-in-array](https://github.com/dilanshjain/gfg-solution/tree/main/0top-k-frequent-in-array/) | Medium |
 | [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [construct-tree-from-inorder-and-preorder](https://github.com/dilanshjain/gfg-solution/tree/main/construct-tree-from-inorder-and-preorder/) | Medium |
 | [convert-to-mirror-tree](https://github.com/dilanshjain/gfg-solution/tree/main/convert-to-mirror-tree/) | Easy |
@@ -577,7 +580,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -774,6 +779,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
+| [0top-k-frequent-in-array](https://github.com/dilanshjain/gfg-solution/tree/main/0top-k-frequent-in-array/) | Medium |
 | [first-negative-in-windows-of-size-k](https://github.com/dilanshjain/gfg-solution/tree/main/first-negative-in-windows-of-size-k/) | Medium |
 | [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
 | [root-to-leaf-paths](https://github.com/dilanshjain/gfg-solution/tree/main/root-to-leaf-paths/) | Medium |
@@ -937,6 +943,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
+| [0top-k-frequent-in-array](https://github.com/dilanshjain/gfg-solution/tree/main/0top-k-frequent-in-array/) | Medium |
 | [largest-bst-subtree](https://github.com/dilanshjain/gfg-solution/tree/main/largest-bst-subtree/) | Hard |
 | [nearly-sorted](https://github.com/dilanshjain/gfg-solution/tree/main/nearly-sorted/) | Medium |
 
@@ -1017,7 +1024,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 
+## Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0top-k-frequent-in-array](https://github.com/dilanshjain/gfg-solution/tree/main/0top-k-frequent-in-array/) | Medium |
+
+## Find K Numbers Occurrences Given Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0top-k-frequent-in-array](https://github.com/dilanshjain/gfg-solution/tree/main/0top-k-frequent-in-array/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
