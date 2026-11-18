@@ -110,6 +110,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -433,6 +434,7 @@ Contains topicwise list of solved problems.
 ## Hike
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [00is-binary-tree-heap](https://github.com/dilanshjain/gfg-solution/tree/main/00is-binary-tree-heap/) | Medium |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 | [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
 | [tree-boundary-traversal](https://github.com/dilanshjain/gfg-solution/tree/main/tree-boundary-traversal/) | Medium |
@@ -480,6 +482,7 @@ Contains topicwise list of solved problems.
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
@@ -715,6 +718,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -796,6 +800,7 @@ Contains topicwise list of solved problems.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [00is-binary-tree-heap](https://github.com/dilanshjain/gfg-solution/tree/main/00is-binary-tree-heap/) | Medium |
 | [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
 | [0lca-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0lca-in-binary-tree/) | Medium |
 | [0max-and-min-in-binary-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0max-and-min-in-binary-tree/) | Easy |
@@ -908,6 +913,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [000k-th-smallest-in-bst](https://github.com/dilanshjain/gfg-solution/tree/main/000k-th-smallest-in-bst/) | Medium |
+| [00is-binary-tree-heap](https://github.com/dilanshjain/gfg-solution/tree/main/00is-binary-tree-heap/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
 | [0sum-of-nodes-in-bst-range](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-nodes-in-bst-range/) | Medium |
@@ -995,6 +1001,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
+| [00is-binary-tree-heap](https://github.com/dilanshjain/gfg-solution/tree/main/00is-binary-tree-heap/) | Medium |
 | [0kth-largest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-largest/) | Medium |
 
 ## STL
@@ -1043,7 +1050,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0top-k-frequent-in-array](https://github.com/dilanshjain/gfg-solution/tree/main/0top-k-frequent-in-array/) | Medium |
 
+## Check If A Given Binary Tree Is Heap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [00is-binary-tree-heap](https://github.com/dilanshjain/gfg-solution/tree/main/00is-binary-tree-heap/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
