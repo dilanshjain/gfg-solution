@@ -114,6 +114,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -484,6 +485,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-smallest/) | Medium |
 
+## DE Shaw
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0bst-to-special-max-heap](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-special-max-heap/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -596,7 +602,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -925,6 +933,7 @@ Contains topicwise list of solved problems.
 | [00is-binary-tree-heap](https://github.com/dilanshjain/gfg-solution/tree/main/00is-binary-tree-heap/) | Medium |
 | [0bst-insert](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-insert/) | Easy |
 | [0bst-to-greater-sum-tree](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-greater-sum-tree/) | Medium |
+| [0bst-to-special-max-heap](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-special-max-heap/) | Medium |
 | [0sum-of-nodes-in-bst-range](https://github.com/dilanshjain/gfg-solution/tree/main/0sum-of-nodes-in-bst-range/) | Medium |
 | [array-to-bst](https://github.com/dilanshjain/gfg-solution/tree/main/array-to-bst/) | Easy |
 | [check-for-bst](https://github.com/dilanshjain/gfg-solution/tree/main/check-for-bst/) | Medium |
@@ -1011,6 +1020,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [000k-closest-points-to-origin](https://github.com/dilanshjain/gfg-solution/tree/main/000k-closest-points-to-origin/) | Medium |
 | [00is-binary-tree-heap](https://github.com/dilanshjain/gfg-solution/tree/main/00is-binary-tree-heap/) | Medium |
+| [0bst-to-special-max-heap](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-special-max-heap/) | Medium |
 | [0kth-largest](https://github.com/dilanshjain/gfg-solution/tree/main/0kth-largest/) | Medium |
 
 ## STL
@@ -1064,7 +1074,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [00is-binary-tree-heap](https://github.com/dilanshjain/gfg-solution/tree/main/00is-binary-tree-heap/) | Medium |
 
+## Convert Bst To Max Heap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0bst-to-special-max-heap](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-special-max-heap/) | Medium |
+
+## GeeksforGeeks
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0bst-to-special-max-heap](https://github.com/dilanshjain/gfg-solution/tree/main/0bst-to-special-max-heap/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
